@@ -1,0 +1,5962 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 26
+/Kids [ 4 0 R 13 0 R 17 0 R 21 0 R 25 0 R 29 0 R 33 0 R 37 0 R 41 0 R 45 0 R 49 0 R 53 0 R 57 0 R 61 0 R 65 0 R 69 0 R 73 0 R 77 0 R 81 0 R 85 0 R 89 0 R 93 0 R 97 0 R 101 0 R 105 0 R 109 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1180
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.058824 .109804 .247059 rg
+n 0 0 612 792 re f*
+.180392 .360784 1 rg
+n 0 633.6 612 3.6 re f*
+1 1 1 rg
+BT /F2 34 Tf 40.8 TL ET
+BT 1 0 0 1 210.579 532.8 Tm (7 Advanced) Tj T* ET
+BT 1 0 0 1 195.483 489.6 Tm (RAG Patterns) Tj T* ET
+BT /F1 16 Tf 19.2 TL ET
+.686275 .760784 1 rg
+BT 1 0 0 1 257.536 446.4 Tm (A Field Guide) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+.560784 .639216 .85098 rg
+BT 1 0 0 1 130.9545 410.4 Tm (Query Transformation \267 Hybrid Search \267 Re-Ranking \267 Hierarchical Retrieval) Tj T* ET
+BT 1 0 0 1 202.7167 392.4 Tm (Corrective RAG \267 Agentic RAG \267 Graph RAG) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.419608 .498039 .74902 rg
+BT 1 0 0 1 165.69 64.8 Tm (Practical patterns for production-grade retrieval-augmented generation) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 1 of 26) Tj
+T*
+ET
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+0.14 0.38 0.92 rg
+BT
+1 0 0 1 54 683.8898 Tm
+(Curated and Compiled by Dipanshu) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F2-0 16 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2777
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 22 Tf 26.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 712.8 Tm (Table of Contents) Tj T* ET
+.180392 .360784 1 RG
+2 w
+n 46.8 702 m 162 702 l S
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 662.4 Tm (01) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 662.4 Tm (Pattern 1 \227 Query Transformation) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 662.4 Tm (p.04) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 630 Tm (02) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 630 Tm (Pattern 2 \227 Hybrid Search) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 630 Tm (p.07) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 597.6 Tm (03) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 597.6 Tm (Pattern 3 \227 Re-Ranking) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 597.6 Tm (p.10) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 565.2 Tm (04) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 565.2 Tm (Pattern 4 \227 Hierarchical Retrieval) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 565.2 Tm (p.13) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 532.8 Tm (05) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 532.8 Tm (Pattern 5 \227 Corrective RAG \(CRAG\)) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 532.8 Tm (p.16) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 500.4 Tm (06) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 500.4 Tm (Pattern 6 \227 Agentic RAG) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 500.4 Tm (p.19) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 468 Tm (07) Tj T* ET
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 82.8 468 Tm (Pattern 7 \227 Graph RAG) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 545.74 468 Tm (p.22) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (02) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 2 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 8 0 R
+/F2-0 20 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 2151
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 22 Tf 26.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 712.8 Tm (Introduction) Tj T* ET
+.180392 .360784 1 RG
+2 w
+n 46.8 702 m 133.2 702 l S
+BT /F1 11 Tf 13.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 669.6 Tm (Naive RAG \227 embed, retrieve top-k, stuff into a prompt \227 breaks down fast in production. Vocabulary) Tj T* ET
+BT 1 0 0 1 46.8 653.6 Tm (mismatches, noisy chunks, missing structure, and single-hop retrieval all cap how far a basic pipeline can) Tj T* ET
+BT 1 0 0 1 46.8 637.6 Tm (go. This guide walks through seven patterns that address those failure modes directly, each with an) Tj T* ET
+BT 1 0 0 1 46.8 621.6 Tm (architecture diagram, a data-flow breakdown, and clear guidance on when to reach for it.) Tj T* ET
+0 0 0 rg
+BT /F2 12 Tf 14.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 587.6 Tm (How to use this guide) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 569.6 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 569.6 Tm (Each pattern stands alone \227 adopt one or combine several as your pipeline matures.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 554.6 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 554.6 Tm (Diagrams favor clarity over completeness; adapt architecture to your own stack.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 539.6 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 539.6 Tm (The comparison table at the end helps you pick a starting point fast.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (03) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 3 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F2-0 24 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5012
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 1 \227 QUERY TRANSFORMATION) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (1. Query Transformation) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Close the vocabulary gap between how users ask and how documents are written.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Users rarely phrase questions the way source documents phrase answers. Query transformation rewrites, expands, or) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (reframes the incoming query before retrieval ever happens \227 using an LLM to generate better search inputs instead of) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (hoping the raw user text embeds close enough to the right chunk.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Take the raw user query as input to a lightweight LLM call) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Generate multiple variants: paraphrases, sub-questions, or a hypothetical answer \(HyDE\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (Optionally decompose complex queries into simpler sub-queries) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (Retrieve using each variant in parallel against the vector store) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Merge/de-duplicate the combined candidate set before ranking) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Fixes vocabulary & phrasing mismatch directly at the) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (source) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (HyDE especially strong when queries are short and) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (documents are long-form) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Decomposition unlocks multi-part questions naive RAG) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (can't handle) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Adds one extra LLM call \(latency + cost\) before retrieval) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (even starts) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Poorly tuned rewrites can drift away from user intent) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 454.4 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 454.4 Tm (Multiple variants means more retrieval calls to fan-in and) Tj T* ET
+BT 1 0 0 1 328.8 441.9 Tm (merge) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Users type short, casual, or vague queries against long, formal technical documents.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (04) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 4 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F2-0 28 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 4564
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 1 \227 QUERY TRANSFORMATION) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 1 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Query Transformation \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+135.12 509.4 l
+138.4368 509.4 141.12 512.0832 141.12 515.4 c
+141.12 543 l
+141.12 546.3168 138.4368 549 135.12 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 94.068 531.2 Tm (User) Tj T* ET
+BT 1 0 0 1 91.4 521.2 Tm (Query) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+172.32 509.4 m
+236.64 509.4 l
+239.9568 509.4 242.64 512.0832 242.64 515.4 c
+242.64 543 l
+242.64 546.3168 239.9568 549 236.64 549 c
+172.32 549 l
+169.0032 549 166.32 546.3168 166.32 543 c
+166.32 515.4 l
+166.32 512.0832 169.0032 509.4 172.32 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 196.26 531.2 Tm (LLM) Tj T* ET
+BT 1 0 0 1 188.476 521.2 Tm (Rewriter) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+273.84 509.4 m
+338.16 509.4 l
+341.4768 509.4 344.16 512.0832 344.16 515.4 c
+344.16 543 l
+344.16 546.3168 341.4768 549 338.16 549 c
+273.84 549 l
+270.5232 549 267.84 546.3168 267.84 543 c
+267.84 515.4 l
+267.84 512.0832 270.5232 509.4 273.84 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 294.44 531.2 Tm (Query) Tj T* ET
+BT 1 0 0 1 290.216 521.2 Tm (Variants) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+375.36 509.4 m
+439.68 509.4 l
+442.9968 509.4 445.68 512.0832 445.68 515.4 c
+445.68 543 l
+445.68 546.3168 442.9968 549 439.68 549 c
+375.36 549 l
+372.0432 549 369.36 546.3168 369.36 543 c
+369.36 515.4 l
+369.36 512.0832 372.0432 509.4 375.36 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 395.072 531.2 Tm (Vector) Tj T* ET
+BT 1 0 0 1 397.296 521.2 Tm (Store) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+476.88 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+476.88 549 l
+473.5632 549 470.88 546.3168 470.88 543 c
+470.88 515.4 l
+470.88 512.0832 473.5632 509.4 476.88 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 494.816 531.2 Tm (Merged) Tj T* ET
+BT 1 0 0 1 487.48 521.2 Tm (Candidates) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 141.12 529.2 m 166.32 529.2 l S
+.290196 .290196 .290196 rg
+n 166.32 529.2 m 160.7936 531.5365 l S
+n 166.32 529.2 m 160.7936 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 242.64 529.2 m 267.84 529.2 l S
+.290196 .290196 .290196 rg
+n 267.84 529.2 m 262.3136 531.5365 l S
+n 267.84 529.2 m 262.3136 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 344.16 529.2 m 369.36 529.2 l S
+.290196 .290196 .290196 rg
+n 369.36 529.2 m 363.8336 531.5365 l S
+n 369.36 529.2 m 363.8336 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 445.68 529.2 m 470.88 529.2 l S
+.290196 .290196 .290196 rg
+n 470.88 529.2 m 465.3536 531.5365 l S
+n 470.88 529.2 m 465.3536 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (The rewriter sits between the user and the vector store. HyDE's trick: instead of embedding the question, it asks the LLM to) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (write a fake answer, then embeds THAT \227 because answers look more like the documents than questions do.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (05) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 5 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 8 0 R
+/F2-0 32 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 3810
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 1 \227 QUERY TRANSFORMATION) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 1 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Query Transformation \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+160.5 509.4 l
+163.8168 509.4 166.5 512.0832 166.5 515.4 c
+166.5 543 l
+166.5 546.3168 163.8168 549 160.5 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 94.754 526.2 Tm (Raw Query) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+197.7 509.4 m
+287.4 509.4 l
+290.7168 509.4 293.4 512.0832 293.4 515.4 c
+293.4 543 l
+293.4 546.3168 290.7168 549 287.4 549 c
+197.7 549 l
+194.3832 549 191.7 546.3168 191.7 543 c
+191.7 515.4 l
+191.7 512.0832 194.3832 509.4 197.7 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 218.538 531.2 Tm (Paraphrase /) Tj T* ET
+BT 1 0 0 1 214.322 521.2 Tm (HyDE / Sub-Qs) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+324.6 509.4 m
+414.3 509.4 l
+417.6168 509.4 420.3 512.0832 420.3 515.4 c
+420.3 543 l
+420.3 546.3168 417.6168 549 414.3 549 c
+324.6 549 l
+321.2832 549 318.6 546.3168 318.6 543 c
+318.6 515.4 l
+318.6 512.0832 321.2832 509.4 324.6 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 355.218 531.2 Tm (Parallel) Tj T* ET
+BT 1 0 0 1 352.554 521.2 Tm (Retrieval) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+451.5 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+451.5 549 l
+448.1832 549 445.5 546.3168 445.5 543 c
+445.5 515.4 l
+445.5 512.0832 448.1832 509.4 451.5 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 488.13 531.2 Tm (RRF) Tj T* ET
+BT 1 0 0 1 483.238 521.2 Tm (Fusion) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 166.5 529.2 m 191.7 529.2 l S
+.290196 .290196 .290196 rg
+n 191.7 529.2 m 186.1736 531.5365 l S
+n 191.7 529.2 m 186.1736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 293.4 529.2 m 318.6 529.2 l S
+.290196 .290196 .290196 rg
+n 318.6 529.2 m 313.0736 531.5365 l S
+n 318.6 529.2 m 313.0736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 420.3 529.2 m 445.5 529.2 l S
+.290196 .290196 .290196 rg
+n 445.5 529.2 m 439.9736 531.5365 l S
+n 445.5 529.2 m 439.9736 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Reciprocal Rank Fusion \(RRF\) combines ranked lists from each query variant without needing comparable similarity scores) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (\227 a document ranked highly by any variant rises to the top.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (06) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 6 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F2-0 36 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 4971
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 2 \227 HYBRID SEARCH) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (2. Hybrid Search) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Combine dense embeddings with sparse keyword search \227 neither alone is enough.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Dense vector search excels at semantic similarity but can miss exact keyword matches \(product codes, names, acronyms\).) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (Sparse methods like BM25 excel at exact term matching but miss paraphrases and synonyms. Hybrid search runs both in) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (parallel and fuses the results, capturing the strengths of each.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Index documents twice: once as dense embeddings, once as a sparse \(BM25/TF-IDF\) index) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (At query time, run the same query through both retrieval paths) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (Each path returns its own ranked candidate list with different scoring scales) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (Fuse the two ranked lists using Reciprocal Rank Fusion \(RRF\) or a weighted score) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Pass the fused, deduplicated top-k forward to the next pipeline stage) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Catches exact matches \(IDs, codes, rare terms\) that) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (embeddings blur over) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Catches paraphrases and synonyms that keyword search) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (misses entirely) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (RRF fusion needs no score calibration between the two) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (systems) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Requires maintaining two indexes instead of one) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 481.4 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 481.4 Tm (Slightly higher infra complexity and query latency) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 466.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 466.9 Tm (Fusion weighting may need tuning per domain) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Your corpus mixes natural language with structured terms \227 product SKUs, legal citations, medical codes, proper nouns.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (07) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 7 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 8 0 R
+/F2-0 40 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 3383
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 2 \227 HYBRID SEARCH) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 2 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Hybrid Search \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+250.8 605.6 m
+361.2 605.6 l
+364.5168 605.6 367.2 608.2832 367.2 611.6 c
+367.2 635.6 l
+367.2 638.9168 364.5168 641.6 361.2 641.6 c
+250.8 641.6 l
+247.4832 641.6 244.8 638.9168 244.8 635.6 c
+244.8 611.6 l
+244.8 608.2832 247.4832 605.6 250.8 605.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 292.995 620.1 Tm (Query) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+99.6 428.4 m
+210 428.4 l
+213.3168 428.4 216 431.0832 216 434.4 c
+216 458.4 l
+216 461.7168 213.3168 464.4 210 464.4 c
+99.6 464.4 l
+96.2832 464.4 93.6 461.7168 93.6 458.4 c
+93.6 434.4 l
+93.6 431.0832 96.2832 428.4 99.6 428.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 141.2955 448.4 Tm (Dense) Tj T* ET
+BT 1 0 0 1 124.7985 437.4 Tm (\(Embeddings\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+402 428.4 m
+512.4 428.4 l
+515.7168 428.4 518.4 431.0832 518.4 434.4 c
+518.4 458.4 l
+518.4 461.7168 515.7168 464.4 512.4 464.4 c
+402 464.4 l
+398.6832 464.4 396 461.7168 396 458.4 c
+396 434.4 l
+396 431.0832 398.6832 428.4 402 428.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 442.1925 448.4 Tm (Sparse) Tj T* ET
+BT 1 0 0 1 442.2015 437.4 Tm (\(BM25\)) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 605.6 m 154.8 464.4 l S
+.290196 .290196 .290196 rg
+n 154.8 464.4 m 160.4337 466.4642 l S
+n 154.8 464.4 m 157.2443 469.8795 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 605.6 m 457.2 464.4 l S
+.290196 .290196 .290196 rg
+n 457.2 464.4 m 454.7557 469.8795 l S
+n 457.2 464.4 m 451.5663 466.4642 l S
+0 0 0 rg
+BT /F3 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 237.364 410.4 Tm /F5 8 Tf 9.6 TL (\256) Tj /F3 8 Tf 9.6 TL ( fused into a single ranked list \(RRF\)) Tj T* ET
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Query goes down two independent paths simultaneously \227 dense \(embedding cosine similarity\) and sparse \(BM25) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (keyword overlap\) \227 then both candidate sets are merged by a fusion step.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (08) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 8 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 43 0 R
+/F2 8 0 R
+/F2-0 44 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 4569
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 2 \227 HYBRID SEARCH) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 2 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Hybrid Search \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+135.12 509.4 l
+138.4368 509.4 141.12 512.0832 141.12 515.4 c
+141.12 543 l
+141.12 546.3168 138.4368 549 135.12 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 81.62 531.2 Tm (Index Docs) Tj T* ET
+BT 1 0 0 1 95.848 521.2 Tm (\(2x\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+172.32 509.4 m
+236.64 509.4 l
+239.9568 509.4 242.64 512.0832 242.64 515.4 c
+242.64 543 l
+242.64 546.3168 239.9568 549 236.64 549 c
+172.32 549 l
+169.0032 549 166.32 546.3168 166.32 543 c
+166.32 515.4 l
+166.32 512.0832 169.0032 509.4 172.32 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 189.028 531.2 Tm (Dense +) Tj T* ET
+BT 1 0 0 1 176.688 521.2 Tm (Sparse Search) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+273.84 509.4 m
+338.16 509.4 l
+341.4768 509.4 344.16 512.0832 344.16 515.4 c
+344.16 543 l
+344.16 546.3168 341.4768 549 338.16 549 c
+273.84 549 l
+270.5232 549 267.84 546.3168 267.84 543 c
+267.84 515.4 l
+267.84 512.0832 270.5232 509.4 273.84 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 282.44 531.2 Tm (Two Ranked) Tj T* ET
+BT 1 0 0 1 296.664 521.2 Tm (Lists) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+375.36 509.4 m
+439.68 509.4 l
+442.9968 509.4 445.68 512.0832 445.68 515.4 c
+445.68 543 l
+445.68 546.3168 442.9968 549 439.68 549 c
+375.36 549 l
+372.0432 549 369.36 546.3168 369.36 543 c
+369.36 515.4 l
+369.36 512.0832 372.0432 509.4 375.36 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 399.3 531.2 Tm (RRF) Tj T* ET
+BT 1 0 0 1 396.404 521.2 Tm (Score) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+476.88 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+476.88 549 l
+473.5632 549 470.88 546.3168 470.88 543 c
+470.88 515.4 l
+470.88 512.0832 473.5632 509.4 476.88 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 497.488 531.2 Tm (Top-K) Tj T* ET
+BT 1 0 0 1 502.152 521.2 Tm (Out) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 141.12 529.2 m 166.32 529.2 l S
+.290196 .290196 .290196 rg
+n 166.32 529.2 m 160.7936 531.5365 l S
+n 166.32 529.2 m 160.7936 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 242.64 529.2 m 267.84 529.2 l S
+.290196 .290196 .290196 rg
+n 267.84 529.2 m 262.3136 531.5365 l S
+n 267.84 529.2 m 262.3136 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 344.16 529.2 m 369.36 529.2 l S
+.290196 .290196 .290196 rg
+n 369.36 529.2 m 363.8336 531.5365 l S
+n 369.36 529.2 m 363.8336 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 445.68 529.2 m 470.88 529.2 l S
+.290196 .290196 .290196 rg
+n 470.88 529.2 m 465.3536 531.5365 l S
+n 470.88 529.2 m 465.3536 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (RRF scores each document by 1/\(k+rank\) summed across both retrievers \(k) Tj /F5 9.5 Tf 11.4 TL (\273) Tj /F3 9.5 Tf 11.4 TL (60 is a common default\). A document doesn't) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (need to be top-1 in either list \227 being decent in both is enough to win.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (09) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 509.9076 18 Tm
+(Page 9 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 47 0 R
+/F2 8 0 R
+/F2-0 48 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 5023
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 3 \227 RE-RANKING) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (3. Re-Ranking) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Trade a little latency for a lot of precision using a second, smarter model pass.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Initial retrieval \(bi-encoder / vector search\) is optimized for speed across millions of documents, not for pinpoint accuracy.) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (Re-ranking adds a second stage: a slower but far more accurate cross-encoder model re-scores a small candidate set \227) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (typically the top 20-50 \227 before the final top-k reaches the LLM.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Retrieve a wide candidate set \(e.g. top-50\) cheaply with the standard vector index) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Pass each \(query, candidate\) pair jointly into a cross-encoder model) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (The cross-encoder outputs a fine-grained relevance score per pair) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (Sort candidates by this new score and keep only the true top-k \(e.g. top-5\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Forward only the highest-precision subset into the LLM's context window) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Meaningfully improves precision of what actually reaches) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (the LLM) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Reduces irrelevant context \227 lowers hallucination risk from) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (noisy chunks) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Works as a drop-in layer on top of any existing retriever) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Cross-encoders are far slower \227 cannot score millions of) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (docs directly) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Adds a model hop, increasing end-to-end latency) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 454.4 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 454.4 Tm (Needs a hosted or self-served re-ranker model \(e.g.) Tj T* ET
+BT 1 0 0 1 328.8 441.9 Tm (Cohere Rerank, BGE-reranker\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 377 m
+561.2 377 l
+563.4112 377 565.2 378.7888 565.2 381 c
+565.2 412.6 l
+565.2 414.8112 563.4112 416.6 561.2 416.6 c
+50.8 416.6 l
+48.5888 416.6 46.8 414.8112 46.8 412.6 c
+46.8 381 l
+46.8 378.7888 48.5888 377 50.8 377 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 400.76 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 387.8 Tm (Retrieval recall is fine but generation quality suffers from noisy, loosely-relevant context.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (10) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 10 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 51 0 R
+/F2 8 0 R
+/F2-0 52 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 3777
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 3 \227 RE-RANKING) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 3 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Re-Ranking \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+160.5 509.4 l
+163.8168 509.4 166.5 512.0832 166.5 515.4 c
+166.5 543 l
+166.5 546.3168 163.8168 549 160.5 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 104.09 526.2 Tm (Query) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+197.7 509.4 m
+287.4 509.4 l
+290.7168 509.4 293.4 512.0832 293.4 515.4 c
+293.4 543 l
+293.4 546.3168 290.7168 549 287.4 549 c
+197.7 549 l
+194.3832 549 191.7 546.3168 191.7 543 c
+191.7 515.4 l
+191.7 512.0832 194.3832 509.4 197.7 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 221.214 531.2 Tm (Bi-Encoder) Tj T* ET
+BT 1 0 0 1 226.774 521.2 Tm (\(Top-50\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+324.6 509.4 m
+414.3 509.4 l
+417.6168 509.4 420.3 512.0832 420.3 515.4 c
+420.3 543 l
+420.3 546.3168 417.6168 549 414.3 549 c
+324.6 549 l
+321.2832 549 318.6 546.3168 318.6 543 c
+318.6 515.4 l
+318.6 512.0832 321.2832 509.4 324.6 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 340.778 531.2 Tm (Cross-Encoder) Tj T* ET
+BT 1 0 0 1 353.226 521.2 Tm (Re-Rank) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+451.5 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+451.5 549 l
+448.1832 549 445.5 546.3168 445.5 543 c
+445.5 515.4 l
+445.5 512.0832 448.1832 509.4 451.5 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 485.462 531.2 Tm (Top-5) Tj T* ET
+BT 1 0 0 1 483.242 521.2 Tm (to LLM) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 166.5 529.2 m 191.7 529.2 l S
+.290196 .290196 .290196 rg
+n 191.7 529.2 m 186.1736 531.5365 l S
+n 191.7 529.2 m 186.1736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 293.4 529.2 m 318.6 529.2 l S
+.290196 .290196 .290196 rg
+n 318.6 529.2 m 313.0736 531.5365 l S
+n 318.6 529.2 m 313.0736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 420.3 529.2 m 445.5 529.2 l S
+.290196 .290196 .290196 rg
+n 445.5 529.2 m 439.9736 531.5365 l S
+n 445.5 529.2 m 439.9736 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (A funnel pattern: cast a wide, cheap net with the bi-encoder, then spend expensive compute only on the shortlist via the) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (cross-encoder before anything reaches the LLM.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (11) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 11 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+53 0 obj
+<<
+/Contents 54 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 55 0 R
+/F2 8 0 R
+/F2-0 56 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 3789
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 3 \227 RE-RANKING) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 3 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Re-Ranking \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+160.5 509.4 l
+163.8168 509.4 166.5 512.0832 166.5 515.4 c
+166.5 543 l
+166.5 546.3168 163.8168 549 160.5 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 89.198 526.2 Tm (Wide Retrieve) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+197.7 509.4 m
+287.4 509.4 l
+290.7168 509.4 293.4 512.0832 293.4 515.4 c
+293.4 543 l
+293.4 546.3168 290.7168 549 287.4 549 c
+197.7 549 l
+194.3832 549 191.7 546.3168 191.7 543 c
+191.7 515.4 l
+191.7 512.0832 194.3832 509.4 197.7 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 219.658 531.2 Tm (\(Query,Doc\)) Tj T* ET
+BT 1 0 0 1 232.766 521.2 Tm (Pairs) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+324.6 509.4 m
+414.3 509.4 l
+417.6168 509.4 420.3 512.0832 420.3 515.4 c
+420.3 543 l
+420.3 546.3168 417.6168 549 414.3 549 c
+324.6 549 l
+321.2832 549 318.6 546.3168 318.6 543 c
+318.6 515.4 l
+318.6 512.0832 321.2832 509.4 324.6 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 340.778 531.2 Tm (Cross-Encoder) Tj T* ET
+BT 1 0 0 1 354.558 521.2 Tm (Scoring) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+451.5 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+451.5 549 l
+448.1832 549 445.5 546.3168 445.5 543 c
+445.5 515.4 l
+445.5 512.0832 448.1832 509.4 451.5 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 484.902 531.2 Tm (Sort +) Tj T* ET
+BT 1 0 0 1 479.458 521.2 Tm (Truncate) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 166.5 529.2 m 191.7 529.2 l S
+.290196 .290196 .290196 rg
+n 191.7 529.2 m 186.1736 531.5365 l S
+n 191.7 529.2 m 186.1736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 293.4 529.2 m 318.6 529.2 l S
+.290196 .290196 .290196 rg
+n 318.6 529.2 m 313.0736 531.5365 l S
+n 318.6 529.2 m 313.0736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 420.3 529.2 m 445.5 529.2 l S
+.290196 .290196 .290196 rg
+n 445.5 529.2 m 439.9736 531.5365 l S
+n 445.5 529.2 m 439.9736 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Bi-encoders embed query and document independently \(fast, cacheable\). Cross-encoders read both together with full) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (attention \(slow, but understands nuance bi-encoders miss\).) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (12) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 12 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+55 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+57 0 obj
+<<
+/Contents 58 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 59 0 R
+/F2 8 0 R
+/F2-0 60 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 5095
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 4 \227 HIERARCHICAL RETRIEVAL) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (4. Hierarchical Retrieval) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Search small, precise chunks \227 but hand the LLM the full surrounding context.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Small chunks embed and match precisely but strip away surrounding context. Large chunks preserve context but embed) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (poorly and dilute relevance. Small-to-big \(parent-child\) retrieval resolves this tension: index small child chunks for) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (matching, but return their larger parent chunk for generation.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Split each document into large 'parent' chunks \(e.g. ~2000 tokens\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Split each parent further into small 'child' chunks \(e.g. ~200 tokens\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (Embed and index only the child chunks for precise similarity search) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (At query time, retrieve matching child chunks as usual) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Before generation, swap each matched child for its full parent chunk) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Retrieval precision of small chunks, context completeness) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (of large chunks) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Reduces 'lost context' failures on nuanced or) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (multi-sentence answers) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Works well for long structured documents: manuals,) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (contracts, textbooks) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Requires maintaining a parent-child mapping alongside the) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (vector index) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Parent chunks consume more context window tokens per) Tj T* ET
+BT 1 0 0 1 328.8 456.4 Tm (result) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 441.9 Tm (Slightly more complex ingestion pipeline to build and) Tj T* ET
+BT 1 0 0 1 328.8 429.4 Tm (version) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Source documents are long and structured, and answers depend on surrounding context, not isolated sentences.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (13) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 13 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+59 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 63 0 R
+/F2 8 0 R
+/F2-0 64 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 4063
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 4 \227 HIERARCHICAL RETRIEVAL) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 4 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Hierarchical Retrieval \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+247.2 610.6 m
+364.8 610.6 l
+368.1168 610.6 370.8 613.2832 370.8 616.6 c
+370.8 640.6 l
+370.8 643.9168 368.1168 646.6 364.8 646.6 c
+247.2 646.6 l
+243.8832 646.6 241.2 643.9168 241.2 640.6 c
+241.2 616.6 l
+241.2 613.2832 243.8832 610.6 247.2 610.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 276.7455 630.6 Tm (Parent Chunk) Tj T* ET
+BT 1 0 0 1 282.366 619.6 Tm (\(~2000 tok\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+204.8 442.8 m
+257.6 442.8 l
+260.9168 442.8 263.6 445.4832 263.6 448.8 c
+263.6 465.6 l
+263.6 468.9168 260.9168 471.6 257.6 471.6 c
+204.8 471.6 l
+201.4832 471.6 198.8 468.9168 198.8 465.6 c
+198.8 448.8 l
+198.8 445.4832 201.4832 442.8 204.8 442.8 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 219.95 459.2 Tm (Child) Tj T* ET
+BT 1 0 0 1 217.2005 448.2 Tm (Chunk) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 610.6 m 231.2 471.6 l S
+.290196 .290196 .290196 rg
+n 231.2 471.6 m 235.8763 475.3593 l S
+n 231.2 471.6 m 231.7613 477.5737 l S
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+279.6 442.8 m
+332.4 442.8 l
+335.7168 442.8 338.4 445.4832 338.4 448.8 c
+338.4 465.6 l
+338.4 468.9168 335.7168 471.6 332.4 471.6 c
+279.6 471.6 l
+276.2832 471.6 273.6 468.9168 273.6 465.6 c
+273.6 448.8 l
+273.6 445.4832 276.2832 442.8 279.6 442.8 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 294.75 459.2 Tm (Child) Tj T* ET
+BT 1 0 0 1 292.0005 448.2 Tm (Chunk) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 610.6 m 306 471.6 l S
+.290196 .290196 .290196 rg
+n 306 471.6 m 308.3365 477.1264 l S
+n 306 471.6 m 303.6635 477.1264 l S
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+354.4 442.8 m
+407.2 442.8 l
+410.5168 442.8 413.2 445.4832 413.2 448.8 c
+413.2 465.6 l
+413.2 468.9168 410.5168 471.6 407.2 471.6 c
+354.4 471.6 l
+351.0832 471.6 348.4 468.9168 348.4 465.6 c
+348.4 448.8 l
+348.4 445.4832 351.0832 442.8 354.4 442.8 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 369.55 459.2 Tm (Child) Tj T* ET
+BT 1 0 0 1 366.8005 448.2 Tm (Chunk) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 610.6 m 380.8 471.6 l S
+.290196 .290196 .290196 rg
+n 380.8 471.6 m 380.2387 477.5737 l S
+n 380.8 471.6 m 376.1237 475.3593 l S
+0 0 0 rg
+BT /F3 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 251.14 417.6 Tm (Match on child ) Tj /F5 8 Tf 9.6 TL (\256) Tj /F3 8 Tf 9.6 TL ( return parent) Tj T* ET
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Parent chunks are split into small children for indexing. A query matching a single small child still returns the entire parent) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (chunk \227 precision in, context out.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (14) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 14 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+65 0 obj
+<<
+/Contents 66 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 67 0 R
+/F2 8 0 R
+/F2-0 68 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 3877
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 4 \227 HIERARCHICAL RETRIEVAL) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 4 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Hierarchical Retrieval \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+160.5 509.4 l
+163.8168 509.4 166.5 512.0832 166.5 515.4 c
+166.5 543 l
+166.5 546.3168 163.8168 549 160.5 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 93.422 531.2 Tm (Split Parent) Tj T* ET
+BT 1 0 0 1 94.366 521.2 Tm /F5 8 Tf 9.6 TL (\256) Tj /F2 8 Tf 9.6 TL ( Children) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+197.7 509.4 m
+287.4 509.4 l
+290.7168 509.4 293.4 512.0832 293.4 515.4 c
+293.4 543 l
+293.4 546.3168 290.7168 549 287.4 549 c
+197.7 549 l
+194.3832 549 191.7 546.3168 191.7 543 c
+191.7 515.4 l
+191.7 512.0832 194.3832 509.4 197.7 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 232.102 531.2 Tm (Index) Tj T* ET
+BT 1 0 0 1 226.326 521.2 Tm (Children) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+324.6 509.4 m
+414.3 509.4 l
+417.6168 509.4 420.3 512.0832 420.3 515.4 c
+420.3 543 l
+420.3 546.3168 417.6168 549 414.3 549 c
+324.6 549 l
+321.2832 549 318.6 546.3168 318.6 543 c
+318.6 515.4 l
+318.6 512.0832 321.2832 509.4 324.6 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 357.894 531.2 Tm (Match) Tj T* ET
+BT 1 0 0 1 359.45 521.2 Tm (Child) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+451.5 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+451.5 549 l
+448.1832 549 445.5 546.3168 445.5 543 c
+445.5 515.4 l
+445.5 512.0832 448.1832 509.4 451.5 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.458 531.2 Tm (Swap for) Tj T* ET
+BT 1 0 0 1 483.902 521.2 Tm (Parent) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 166.5 529.2 m 191.7 529.2 l S
+.290196 .290196 .290196 rg
+n 191.7 529.2 m 186.1736 531.5365 l S
+n 191.7 529.2 m 186.1736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 293.4 529.2 m 318.6 529.2 l S
+.290196 .290196 .290196 rg
+n 318.6 529.2 m 313.0736 531.5365 l S
+n 318.6 529.2 m 313.0736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 420.3 529.2 m 445.5 529.2 l S
+.290196 .290196 .290196 rg
+n 445.5 529.2 m 439.9736 531.5365 l S
+n 445.5 529.2 m 439.9736 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Flat chunking forces a trade-off between match precision and context completeness. Small-to-big retrieval gets both by) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (decoupling what's searched from what's returned.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (15) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 15 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+67 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+68 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+69 0 obj
+<<
+/Contents 70 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 71 0 R
+/F2 8 0 R
+/F2-0 72 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 5075
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 5 \227 CORRECTIVE RAG \(CRAG\)) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (5. Corrective RAG \(CRAG\)) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Never blindly trust the retriever \227 grade results and self-correct in real time.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Standard RAG assumes retrieved chunks are relevant. Corrective RAG adds a lightweight grading step: an LLM \(or) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (classifier\) scores each retrieved chunk for relevance before generation. When retrieval quality is poor, the system triggers a) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (fallback \227 commonly a live web search \227 rather than generating from bad context.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Run standard retrieval to get an initial candidate set) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Pass each candidate through a lightweight relevance grader \(LLM-as-judge\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (Classify results as Correct, Ambiguous, or Incorrect) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (If results are weak, trigger a corrective action: query rewrite + web search) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Combine validated internal context with any corrective results, then generate) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Catches and recovers from bad retrieval instead of silently) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (hallucinating) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Web-search fallback keeps answers current for) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (time-sensitive queries) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Grading step is model-agnostic \227 works with any base) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (retriever) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Adds a grading LLM call on every request \227 extra latency) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (and cost) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Fallback web search introduces external dependency and) Tj T* ET
+BT 1 0 0 1 328.8 456.4 Tm (variability) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 441.9 Tm (Grader itself can be wrong, adding another point of failure) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Answer correctness matters more than latency \227 high-stakes or public-facing assistants.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (16) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 16 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+71 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+72 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+73 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 75 0 R
+/F2 8 0 R
+/F2-0 76 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 3908
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 5 \227 CORRECTIVE RAG \(CRAG\)) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 5 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Corrective RAG \(CRAG\) \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+160.5 509.4 l
+163.8168 509.4 166.5 512.0832 166.5 515.4 c
+166.5 543 l
+166.5 546.3168 163.8168 549 160.5 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 99.866 526.2 Tm (Retrieve) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+197.7 509.4 m
+287.4 509.4 l
+290.7168 509.4 293.4 512.0832 293.4 515.4 c
+293.4 543 l
+293.4 546.3168 290.7168 549 287.4 549 c
+197.7 549 l
+194.3832 549 191.7 546.3168 191.7 543 c
+191.7 515.4 l
+191.7 512.0832 194.3832 509.4 197.7 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 222.762 531.2 Tm (Relevance) Tj T* ET
+BT 1 0 0 1 229.434 521.2 Tm (Grader) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+324.6 509.4 m
+414.3 509.4 l
+417.6168 509.4 420.3 512.0832 420.3 515.4 c
+420.3 543 l
+420.3 546.3168 417.6168 549 414.3 549 c
+324.6 549 l
+321.2832 549 318.6 546.3168 318.6 543 c
+318.6 515.4 l
+318.6 512.0832 321.2832 509.4 324.6 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 352.782 526.2 Tm (Correct?) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+451.5 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+451.5 549 l
+448.1832 549 445.5 546.3168 445.5 543 c
+445.5 515.4 l
+445.5 512.0832 448.1832 509.4 451.5 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.01 526.2 Tm (Generate) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 166.5 529.2 m 191.7 529.2 l S
+.290196 .290196 .290196 rg
+n 191.7 529.2 m 186.1736 531.5365 l S
+n 191.7 529.2 m 186.1736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 293.4 529.2 m 318.6 529.2 l S
+.290196 .290196 .290196 rg
+n 318.6 529.2 m 313.0736 531.5365 l S
+n 318.6 529.2 m 313.0736 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 420.3 529.2 m 445.5 529.2 l S
+.290196 .290196 .290196 rg
+n 445.5 529.2 m 439.9736 531.5365 l S
+n 445.5 529.2 m 439.9736 526.8635 l S
+0 0 0 rg
+BT /F3 7.5 Tf 9 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 231.1275 415.44 Tm (If Incorrect ) Tj /F5 7.5 Tf 9 TL (\256) Tj /F3 7.5 Tf 9 TL ( Rewrite + Web Search fallback) Tj T* ET
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Every retrieved chunk passes through a relevance grader. Relevant chunks flow straight to generation; irrelevant ones) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (trigger a corrective fallback path before generation happens.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (17) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 17 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+75 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+76 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+77 0 obj
+<<
+/Contents 78 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 79 0 R
+/F2 8 0 R
+/F2-0 80 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+78 0 obj
+<<
+/Length 4542
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 5 \227 CORRECTIVE RAG \(CRAG\)) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 5 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Corrective RAG \(CRAG\) \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+135.12 509.4 l
+138.4368 509.4 141.12 512.0832 141.12 515.4 c
+141.12 543 l
+141.12 546.3168 138.4368 549 135.12 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 92.512 531.2 Tm (Initial) Tj T* ET
+BT 1 0 0 1 86.064 521.2 Tm (Retrieval) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+172.32 509.4 m
+236.64 509.4 l
+239.9568 509.4 242.64 512.0832 242.64 515.4 c
+242.64 543 l
+242.64 546.3168 239.9568 549 236.64 549 c
+172.32 549 l
+169.0032 549 166.32 546.3168 166.32 543 c
+166.32 515.4 l
+166.32 512.0832 169.0032 509.4 172.32 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 182.248 531.2 Tm (Grade Each) Tj T* ET
+BT 1 0 0 1 192.036 521.2 Tm (Chunk) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+273.84 509.4 m
+338.16 509.4 l
+341.4768 509.4 344.16 512.0832 344.16 515.4 c
+344.16 543 l
+344.16 546.3168 341.4768 549 338.16 549 c
+273.84 549 l
+270.5232 549 267.84 546.3168 267.84 543 c
+267.84 515.4 l
+267.84 512.0832 270.5232 509.4 273.84 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 289.552 536.2 Tm (Correct /) Tj T* ET
+BT 1 0 0 1 281.776 526.2 Tm (Ambiguous /) Tj T* ET
+BT 1 0 0 1 288.884 516.2 Tm (Incorrect) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+375.36 509.4 m
+439.68 509.4 l
+442.9968 509.4 445.68 512.0832 445.68 515.4 c
+445.68 543 l
+445.68 546.3168 442.9968 549 439.68 549 c
+375.36 549 l
+372.0432 549 369.36 546.3168 369.36 543 c
+369.36 515.4 l
+369.36 512.0832 372.0432 509.4 375.36 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 391.512 531.2 Tm (Fallback) Tj T* ET
+BT 1 0 0 1 384.624 521.2 Tm (Web Search) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+476.88 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+476.88 549 l
+473.5632 549 470.88 546.3168 470.88 543 c
+470.88 515.4 l
+470.88 512.0832 473.5632 509.4 476.88 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 491.7 526.2 Tm (Generate) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 141.12 529.2 m 166.32 529.2 l S
+.290196 .290196 .290196 rg
+n 166.32 529.2 m 160.7936 531.5365 l S
+n 166.32 529.2 m 160.7936 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 242.64 529.2 m 267.84 529.2 l S
+.290196 .290196 .290196 rg
+n 267.84 529.2 m 262.3136 531.5365 l S
+n 267.84 529.2 m 262.3136 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 344.16 529.2 m 369.36 529.2 l S
+.290196 .290196 .290196 rg
+n 369.36 529.2 m 363.8336 531.5365 l S
+n 369.36 529.2 m 363.8336 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 445.68 529.2 m 470.88 529.2 l S
+.290196 .290196 .290196 rg
+n 470.88 529.2 m 465.3536 531.5365 l S
+n 470.88 529.2 m 465.3536 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (The grading loop turns retrieval from a one-shot gamble into a checked, correctable step \227 the system knows when it) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (doesn't know, rather than confidently generating from noise.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (18) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 18 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+79 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+80 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+81 0 obj
+<<
+/Contents 82 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 83 0 R
+/F2 8 0 R
+/F2-0 84 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+82 0 obj
+<<
+/Length 5157
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 6 \227 AGENTIC RAG) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (6. Agentic RAG) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Give the LLM a router and a toolbox instead of one fixed retrieval path.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Not every question is answerable from a single vector search. Agentic RAG wraps retrieval inside an agent loop: a) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (planning/router step decides which tool\(s\) to call \227 vector search, SQL, an API, a calculator, live web search \227 and can) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (chain multiple calls together to answer multi-hop, multi-source questions.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (A router/planner agent receives the query and decides an execution plan) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Complex queries get decomposed into an ordered sequence of tool calls) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (Each tool \(retriever, SQL, API, calculator\) executes and returns structured results) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (The agent inspects intermediate results and may re-plan or call more tools) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Once enough grounded evidence is gathered, the agent synthesizes a final answer) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Handles multi-hop questions spanning multiple data) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (sources) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Extends RAG beyond static documents into live APIs and) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (structured data) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Self-correcting \227 agent can retry or choose a different tool) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (if one fails) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Highest latency and cost of any pattern in this guide \227) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (multiple LLM + tool round-trips) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Harder to debug and evaluate \227 non-deterministic) Tj T* ET
+BT 1 0 0 1 328.8 456.4 Tm (execution paths) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 441.9 Tm (Requires careful guardrails to prevent runaway tool-call) Tj T* ET
+BT 1 0 0 1 328.8 429.4 Tm (loops) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Questions genuinely require combining multiple data sources or real-time information, not just document lookup.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (19) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 19 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+83 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+84 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+85 0 obj
+<<
+/Contents 86 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 87 0 R
+/F2 8 0 R
+/F2-0 88 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+86 0 obj
+<<
+/Length 4301
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 6 \227 AGENTIC RAG) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 6 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Agentic RAG \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.180392 .360784 1 rg
+.180392 .360784 1 RG
+n
+254.4 507.6 m
+357.6 507.6 l
+360.9168 507.6 363.6 510.2832 363.6 513.6 c
+363.6 544.8 l
+363.6 548.1168 360.9168 550.8 357.6 550.8 c
+254.4 550.8 l
+251.0832 550.8 248.4 548.1168 248.4 544.8 c
+248.4 513.6 l
+248.4 510.2832 251.0832 507.6 254.4 507.6 c
+h
+B*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 288.999 531.2 Tm (Router /) Tj T* ET
+BT 1 0 0 1 275.4945 520.2 Tm (Planner Agent) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+85.2 417.6 m
+152.4 417.6 l
+155.7168 417.6 158.4 420.2832 158.4 423.6 c
+158.4 444 l
+158.4 447.3168 155.7168 450 152.4 450 c
+85.2 450 l
+81.8832 450 79.2 447.3168 79.2 444 c
+79.2 423.6 l
+79.2 420.2832 81.8832 417.6 85.2 417.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 104.796 435.8 Tm (Vector) Tj T* ET
+BT 1 0 0 1 99.2925 424.8 Tm (Retriever) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 507.6 m 118.8 450 l S
+.290196 .290196 .290196 rg
+n 118.8 450 m 124.7691 449.392 l S
+n 118.8 450 m 123.3949 453.8584 l S
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+210 417.6 m
+277.2 417.6 l
+280.5168 417.6 283.2 420.2832 283.2 423.6 c
+283.2 444 l
+283.2 447.3168 280.5168 450 277.2 450 c
+210 450 l
+206.6832 450 204 447.3168 204 444 c
+204 423.6 l
+204 420.2832 206.6832 417.6 210 417.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 234.348 430.3 Tm (SQL) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 507.6 m 243.6 450 l S
+.290196 .290196 .290196 rg
+n 243.6 450 m 249.2456 452.0315 l S
+n 243.6 450 m 246.076 455.4653 l S
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+334.8 417.6 m
+402 417.6 l
+405.3168 417.6 408 420.2832 408 423.6 c
+408 444 l
+408 447.3168 405.3168 450 402 450 c
+334.8 450 l
+331.4832 450 328.8 447.3168 328.8 444 c
+328.8 423.6 l
+328.8 420.2832 331.4832 417.6 334.8 417.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 358.9005 435.8 Tm (Web) Tj T* ET
+BT 1 0 0 1 353.3925 424.8 Tm (Search) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 507.6 m 368.4 450 l S
+.290196 .290196 .290196 rg
+n 368.4 450 m 365.924 455.4653 l S
+n 368.4 450 m 362.7544 452.0315 l S
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+459.6 417.6 m
+526.8 417.6 l
+530.1168 417.6 532.8 420.2832 532.8 423.6 c
+532.8 444 l
+532.8 447.3168 530.1168 450 526.8 450 c
+459.6 450 l
+456.2832 450 453.6 447.3168 453.6 444 c
+453.6 423.6 l
+453.6 420.2832 456.2832 417.6 459.6 417.6 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 471.195 430.3 Tm (Calculator) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 306 507.6 m 493.2 450 l S
+.290196 .290196 .290196 rg
+n 493.2 450 m 488.6051 453.8584 l S
+n 493.2 450 m 487.2309 449.392 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (A router agent sits at the center, dispatching to whichever tools the query actually needs \227 vector retriever, SQL, web) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (search, or a calculator \227 then synthesizes across all results.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (20) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 20 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+87 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+88 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+89 0 obj
+<<
+/Contents 90 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 91 0 R
+/F2 8 0 R
+/F2-0 92 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+90 0 obj
+<<
+/Length 4484
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 6 \227 AGENTIC RAG) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 6 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Agentic RAG \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+135.12 509.4 l
+138.4368 509.4 141.12 512.0832 141.12 515.4 c
+141.12 543 l
+141.12 546.3168 138.4368 549 135.12 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 87.84 531.2 Tm (Receive) Tj T* ET
+BT 1 0 0 1 91.4 521.2 Tm (Query) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+172.32 509.4 m
+236.64 509.4 l
+239.9568 509.4 242.64 512.0832 242.64 515.4 c
+242.64 543 l
+242.64 546.3168 239.9568 549 236.64 549 c
+172.32 549 l
+169.0032 549 166.32 546.3168 166.32 543 c
+166.32 515.4 l
+166.32 512.0832 169.0032 509.4 172.32 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 193.808 531.2 Tm (Plan /) Tj T* ET
+BT 1 0 0 1 181.808 521.2 Tm (Decompose) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+273.84 509.4 m
+338.16 509.4 l
+341.4768 509.4 344.16 512.0832 344.16 515.4 c
+344.16 543 l
+344.16 546.3168 341.4768 549 338.16 549 c
+273.84 549 l
+270.5232 549 267.84 546.3168 267.84 543 c
+267.84 515.4 l
+267.84 512.0832 270.5232 509.4 273.84 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 298.664 531.2 Tm (Call) Tj T* ET
+BT 1 0 0 1 292.668 521.2 Tm (Tool\(s\)) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+375.36 509.4 m
+439.68 509.4 l
+442.9968 509.4 445.68 512.0832 445.68 515.4 c
+445.68 543 l
+445.68 546.3168 442.9968 549 439.68 549 c
+375.36 549 l
+372.0432 549 369.36 546.3168 369.36 543 c
+369.36 515.4 l
+369.36 512.0832 372.0432 509.4 375.36 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 393.516 531.2 Tm (Inspect) Tj T* ET
+BT 1 0 0 1 393.072 521.2 Tm (Results) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+476.88 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+476.88 549 l
+473.5632 549 470.88 546.3168 470.88 543 c
+470.88 515.4 l
+470.88 512.0832 473.5632 509.4 476.88 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 488.144 531.2 Tm (Synthesize) Tj T* ET
+BT 1 0 0 1 494.592 521.2 Tm (Answer) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 141.12 529.2 m 166.32 529.2 l S
+.290196 .290196 .290196 rg
+n 166.32 529.2 m 160.7936 531.5365 l S
+n 166.32 529.2 m 160.7936 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 242.64 529.2 m 267.84 529.2 l S
+.290196 .290196 .290196 rg
+n 267.84 529.2 m 262.3136 531.5365 l S
+n 267.84 529.2 m 262.3136 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 344.16 529.2 m 369.36 529.2 l S
+.290196 .290196 .290196 rg
+n 369.36 529.2 m 363.8336 531.5365 l S
+n 369.36 529.2 m 363.8336 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 445.68 529.2 m 470.88 529.2 l S
+.290196 .290196 .290196 rg
+n 470.88 529.2 m 465.3536 531.5365 l S
+n 470.88 529.2 m 465.3536 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Complex questions get decomposed into ordered sub-tasks, each handled by the right tool, with the agent chaining outputs) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (from one step into the input of the next.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (21) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 21 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+91 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+92 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+93 0 obj
+<<
+/Contents 94 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 95 0 R
+/F2 8 0 R
+/F2-0 96 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+94 0 obj
+<<
+/Length 5108
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.180392 .360784 1 rg
+n 0 781.2 612 10.8 re f*
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 7 \227 GRAPH RAG) Tj T* ET
+BT /F2 24 Tf 28.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (7. Graph RAG) Tj T* ET
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT /F3 11.5 Tf 13.8 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 46.8 694.8 Tm (Reason over explicit relationships, not just semantic proximity.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 672.6 Tm (Overview) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 46.8 658.2 Tm (Vector similarity cannot answer relationship questions \227 'who reports to whom', 'which products depend on which) Tj T* ET
+BT 1 0 0 1 46.8 644.7 Tm (suppliers'. Graph RAG extracts entities and relationships from source documents into a knowledge graph, then answers) Tj T* ET
+BT 1 0 0 1 46.8 631.2 Tm (queries by traversing that graph rather than \(or alongside\) vector similarity search.) Tj T* ET
+0 0 0 rg
+BT /F2 11 Tf 13.2 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 606.9 Tm (How it works) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 592.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 592.5 Tm (Run an LLM extraction pass over documents to identify entities and relationships) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 577.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 577.5 Tm (Build a knowledge graph: nodes are entities, edges are typed relationships) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 562.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 562.5 Tm (At query time, identify the relevant entity/entities mentioned in the query) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 547.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 547.5 Tm (Traverse relevant edges to gather connected facts \(1-hop, 2-hop, etc.\)) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 532.5 Tm (\177) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 532.5 Tm (Combine traversed graph facts with any vector-retrieved text, then generate) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.117647 .556863 .352941 rg
+BT 1 0 0 1 46.8 510.3 Tm /F4 10.5 Tf 12.6 TL (3) Tj /F2 10.5 Tf 12.6 TL ( Pros) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 495.9 Tm (Answers multi-hop, relationship-based questions vector) Tj T* ET
+BT 1 0 0 1 58.8 483.4 Tm (search structurally cannot) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 468.9 Tm (Produces explainable, traceable reasoning paths through) Tj T* ET
+BT 1 0 0 1 58.8 456.4 Tm (explicit graph edges) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 46.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 58.8 441.9 Tm (Can combine with vector search for hybrid graph +) Tj T* ET
+BT 1 0 0 1 58.8 429.4 Tm (semantic retrieval) Tj T* ET
+0 0 0 rg
+BT /F2 10.5 Tf 12.6 TL ET
+.752941 .223529 .168627 rg
+BT 1 0 0 1 316.8 510.3 Tm /F4 10.5 Tf 12.6 TL (7) Tj /F2 10.5 Tf 12.6 TL ( Cons) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.8 495.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 495.9 Tm (Graph construction \(entity/relation extraction\) is expensive) Tj T* ET
+BT 1 0 0 1 328.8 483.4 Tm (and error-prone at scale) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 468.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 468.9 Tm (Requires ongoing graph maintenance as source) Tj T* ET
+BT 1 0 0 1 328.8 456.4 Tm (documents change) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT 1 0 0 1 316.8 441.9 Tm (\177) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 328.8 441.9 Tm (Higher engineering overhead than a standard vector index) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+n
+50.8 364.5 m
+561.2 364.5 l
+563.4112 364.5 565.2 366.2888 565.2 368.5 c
+565.2 400.1 l
+565.2 402.3112 563.4112 404.1 561.2 404.1 c
+50.8 404.1 l
+48.5888 404.1 46.8 402.3112 46.8 400.1 c
+46.8 368.5 l
+46.8 366.2888 48.5888 364.5 50.8 364.5 c
+h
+f*
+BT /F2 9 Tf 10.8 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 57.6 388.26 Tm (USE WHEN) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 57.6 375.3 Tm (Your domain is relationship-rich \227 org charts, supply chains, financial filings, scientific citations.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (22) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 22 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+95 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+96 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+97 0 obj
+<<
+/Contents 98 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 99 0 R
+/F2 8 0 R
+/F2-0 100 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+98 0 obj
+<<
+/Length 3432
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 7 \227 GRAPH RAG) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 444.772 756 Tm (PATTERN 7 \267 ARCHITECTURE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Graph RAG \227 Architecture) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+175.2 540 m
+249.6 540 l
+252.9168 540 255.6 542.6832 255.6 546 c
+255.6 570 l
+255.6 573.3168 252.9168 576 249.6 576 c
+175.2 576 l
+171.8832 576 169.2 573.3168 169.2 570 c
+169.2 546 l
+169.2 542.6832 171.8832 540 175.2 540 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 195.399 554.5 Tm (Entity A) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+362.4 540 m
+436.8 540 l
+440.1168 540 442.8 542.6832 442.8 546 c
+442.8 570 l
+442.8 573.3168 440.1168 576 436.8 576 c
+362.4 576 l
+359.0832 576 356.4 573.3168 356.4 570 c
+356.4 546 l
+356.4 542.6832 359.0832 540 362.4 540 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 382.599 554.5 Tm (Entity B) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+268.8 475.2 m
+343.2 475.2 l
+346.5168 475.2 349.2 477.8832 349.2 481.2 c
+349.2 505.2 l
+349.2 508.5168 346.5168 511.2 343.2 511.2 c
+268.8 511.2 l
+265.4832 511.2 262.8 508.5168 262.8 505.2 c
+262.8 481.2 l
+262.8 477.8832 265.4832 475.2 268.8 475.2 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 288.999 489.7 Tm (Entity C) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 255.6 558 m 356.4 558 l S
+.290196 .290196 .290196 rg
+n 356.4 558 m 350.8736 560.3365 l S
+n 356.4 558 m 350.8736 555.6635 l S
+BT /F3 7.5 Tf 9 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 285.3675 564 Tm (has_division) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 212.4 540 m 284.4 507.6 l S
+.290196 .290196 .290196 rg
+n 284.4 507.6 m 280.3192 511.9985 l S
+n 284.4 507.6 m 278.4016 507.7371 l S
+BT /F3 7.5 Tf 9 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 237.3525 529.8 Tm (led_by) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 399.6 540 m 327.6 507.6 l S
+.290196 .290196 .290196 rg
+n 327.6 507.6 m 333.5984 507.7371 l S
+n 327.6 507.6 m 331.6808 511.9985 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Documents are processed once to extract entities and relationships into a graph structure that can be traversed at query) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (time \227 independent of surface-level text similarity.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (23) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 23 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+99 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+100 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+101 0 obj
+<<
+/Contents 102 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 103 0 R
+/F2 8 0 R
+/F2-0 104 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+102 0 obj
+<<
+/Length 4506
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 9 Tf 10.8 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 756 Tm (PATTERN 7 \227 GRAPH RAG) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.180392 .360784 1 rg
+BT 1 0 0 1 466.005 756 Tm (PATTERN 7 \267 DEEP DIVE) Tj T* ET
+BT /F2 17 Tf 20.4 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 723.6 Tm (Graph RAG \227 Data Flow) Tj T* ET
+.956863 .960784 .968627 rg
+n
+54.8 388.8 m
+557.2 388.8 l
+561.6224 388.8 565.2 392.3776 565.2 396.8 c
+565.2 661.6 l
+565.2 666.0224 561.6224 669.6 557.2 669.6 c
+54.8 669.6 l
+50.3776 669.6 46.8 666.0224 46.8 661.6 c
+46.8 396.8 l
+46.8 392.3776 50.3776 388.8 54.8 388.8 c
+h
+f*
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+70.8 509.4 m
+135.12 509.4 l
+138.4368 509.4 141.12 512.0832 141.12 515.4 c
+141.12 543 l
+141.12 546.3168 138.4368 549 135.12 549 c
+70.8 549 l
+67.4832 549 64.8 546.3168 64.8 543 c
+64.8 515.4 l
+64.8 512.0832 67.4832 509.4 70.8 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 89.4 531.2 Tm (Extract) Tj T* ET
+BT 1 0 0 1 78.952 521.2 Tm (Entities/Rels) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+172.32 509.4 m
+236.64 509.4 l
+239.9568 509.4 242.64 512.0832 242.64 515.4 c
+242.64 543 l
+242.64 546.3168 239.9568 549 236.64 549 c
+172.32 549 l
+169.0032 549 166.32 546.3168 166.32 543 c
+166.32 515.4 l
+166.32 512.0832 169.0032 509.4 172.32 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 194.48 531.2 Tm (Build) Tj T* ET
+BT 1 0 0 1 192.7 521.2 Tm (Graph) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+273.84 509.4 m
+338.16 509.4 l
+341.4768 509.4 344.16 512.0832 344.16 515.4 c
+344.16 543 l
+344.16 546.3168 341.4768 549 338.16 549 c
+273.84 549 l
+270.5232 549 267.84 546.3168 267.84 543 c
+267.84 515.4 l
+267.84 512.0832 270.5232 509.4 273.84 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 291.776 531.2 Tm (Identify) Tj T* ET
+BT 1 0 0 1 282.216 521.2 Tm (Query Entity) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+375.36 509.4 m
+439.68 509.4 l
+442.9968 509.4 445.68 512.0832 445.68 515.4 c
+445.68 543 l
+445.68 546.3168 442.9968 549 439.68 549 c
+375.36 549 l
+372.0432 549 369.36 546.3168 369.36 543 c
+369.36 515.4 l
+369.36 512.0832 372.0432 509.4 375.36 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 390.844 531.2 Tm (Traverse) Tj T* ET
+BT 1 0 0 1 395.516 521.2 Tm (Edges) Tj T* ET
+0 0 0 rg
+.917647 .941176 1 rg
+.180392 .360784 1 RG
+n
+476.88 509.4 m
+541.2 509.4 l
+544.5168 509.4 547.2 512.0832 547.2 515.4 c
+547.2 543 l
+547.2 546.3168 544.5168 549 541.2 549 c
+476.88 549 l
+473.5632 549 470.88 546.3168 470.88 543 c
+470.88 515.4 l
+470.88 512.0832 473.5632 509.4 476.88 509.4 c
+h
+B*
+.058824 .109804 .247059 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 488.48 531.2 Tm (Combine +) Tj T* ET
+BT 1 0 0 1 491.7 521.2 Tm (Generate) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 141.12 529.2 m 166.32 529.2 l S
+.290196 .290196 .290196 rg
+n 166.32 529.2 m 160.7936 531.5365 l S
+n 166.32 529.2 m 160.7936 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 242.64 529.2 m 267.84 529.2 l S
+.290196 .290196 .290196 rg
+n 267.84 529.2 m 262.3136 531.5365 l S
+n 267.84 529.2 m 262.3136 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 344.16 529.2 m 369.36 529.2 l S
+.290196 .290196 .290196 rg
+n 369.36 529.2 m 363.8336 531.5365 l S
+n 369.36 529.2 m 363.8336 526.8635 l S
+0 0 0 rg
+.290196 .290196 .290196 RG
+1.3 w
+n 445.68 529.2 m 470.88 529.2 l S
+.290196 .290196 .290196 rg
+n 470.88 529.2 m 465.3536 531.5365 l S
+n 470.88 529.2 m 465.3536 526.8635 l S
+0 0 0 rg
+BT /F3 9.5 Tf 11.4 TL ET
+BT /F3 9.5 Tf 11.4 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 46.8 363.6 Tm (Answering 'who leads Acme's AI division' means walking two typed edges \227 'has_division' then 'led_by' \227 a hop-by-hop) Tj T* ET
+BT 1 0 0 1 46.8 350.1 Tm (reasoning chain no embedding similarity score can replicate.) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 556.304 28.8 Tm (24) Tj T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 24 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+103 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+104 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+105 0 obj
+<<
+/Contents 106 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 107 0 R
+/F2 8 0 R
+/F2-0 108 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+106 0 obj
+<<
+/Length 5364
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 20 Tf 24 TL ET
+.058824 .109804 .247059 rg
+BT 1 0 0 1 46.8 720 Tm (Pattern Comparison) Tj T* ET
+.180392 .360784 1 rg
+n 46.8 653.76 432 30.24 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 54 671.88 Tm (Pattern) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 162 671.88 Tm (Fixes) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 273.6 671.88 Tm (Cost/Latency) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 356.4 671.88 Tm (Best Fit) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+n 46.8 623.52 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 641.64 Tm (Query Transform) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 641.64 Tm (Vocabulary gap) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 641.64 Tm (Low-Med) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 641.64 Tm (Short/casual queries) Tj T* ET
+0 0 0 rg
+.956863 .960784 .968627 rg
+n 46.8 593.28 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 611.4 Tm (Hybrid Search) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 611.4 Tm (Missed keywords) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 611.4 Tm (Low) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 611.4 Tm (Mixed NL + codes/IDs) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+n 46.8 563.04 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 581.16 Tm (Re-Ranking) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 581.16 Tm (Noisy top-k) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 581.16 Tm (Medium) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 581.16 Tm (Precision-sensitive Q&A) Tj T* ET
+0 0 0 rg
+.956863 .960784 .968627 rg
+n 46.8 532.8 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 550.92 Tm (Hierarchical) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 550.92 Tm (Context loss) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 550.92 Tm (Low) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 550.92 Tm (Long structured docs) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+n 46.8 502.56 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 520.68 Tm (Corrective RAG) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 520.68 Tm (Bad retrieval) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 520.68 Tm (Medium) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 520.68 Tm (High-stakes accuracy) Tj T* ET
+0 0 0 rg
+.956863 .960784 .968627 rg
+n 46.8 472.32 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 490.44 Tm (Agentic RAG) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 490.44 Tm (Single-hop limit) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 490.44 Tm (High) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 490.44 Tm (Multi-source questions) Tj T* ET
+0 0 0 rg
+1 1 1 rg
+n 46.8 442.08 432 30.24 re f*
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 54 460.2 Tm (Graph RAG) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 162 460.2 Tm (No relationships) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 273.6 460.2 Tm (Med-High) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 356.4 460.2 Tm (Relationship-rich domains) Tj T* ET
+0 0 0 rg
+.290196 .290196 .290196 RG
+.5 w
+n 46.8 684 m 478.8 684 l S
+n 46.8 653.76 m 478.8 653.76 l S
+n 46.8 623.52 m 478.8 623.52 l S
+n 46.8 593.28 m 478.8 593.28 l S
+n 46.8 563.04 m 478.8 563.04 l S
+n 46.8 532.8 m 478.8 532.8 l S
+n 46.8 502.56 m 478.8 502.56 l S
+n 46.8 472.32 m 478.8 472.32 l S
+n 46.8 442.08 m 478.8 442.08 l S
+BT /F1 8 Tf 9.6 TL ET
+.290196 .290196 .290196 rg
+BT 1 0 0 1 46.8 28.8 Tm (Advanced RAG Patterns \227 Field Guide) Tj T* ET
+BT 1 0 0 1 565.2 28.8 Tm  T* ET
+0 0 0 rg
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 25 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+107 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+108 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+109 0 obj
+<<
+/Contents 110 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 111 0 R
+/F2 8 0 R
+/F2-0 112 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+110 0 obj
+<<
+/Length 810
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.058824 .109804 .247059 rg
+n 0 0 612 792 re f*
+1 1 1 rg
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 53.572 417.6 Tm (Choose the pattern that fits your failure mode \227) Tj T* ET
+BT 1 0 0 1 140.362 392.4 Tm (not the most sophisticated one.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.560784 .639216 .85098 rg
+BT 1 0 0 1 264.59 352.8 Tm (End of Field Guide) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.15 0.23 0.38 rg
+BT
+1 0 0 1 251.7378 18 Tm
+(\100DIPANSHU\056DECODED) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.39 0.45 0.55 rg
+BT
+1 0 0 1 505.4596 18 Tm
+(Page 26 of 26) Tj
+T*
+ET
+BT
+1 0 0 1 40 816.8898 Tm
+(7 Advanced RAG Patterns\072 A Field Guide) Tj
+T*
+ET
+0.88 0.91 0.94 RG
+0.5 w
+n
+40 811.8898 m
+555.2756 811.8898 l
+S
+Q
+
+
+endstream
+endobj
+111 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+112 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 113
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000292 00000 n 
+0000000341 00000 n 
+0000000619 00000 n 
+0000001851 00000 n 
+0000001958 00000 n 
+0000002065 00000 n 
+0000002177 00000 n 
+0000002289 00000 n 
+0000002405 00000 n 
+0000002489 00000 n 
+0000002567 00000 n 
+0000002849 00000 n 
+0000005679 00000 n 
+0000005787 00000 n 
+0000005900 00000 n 
+0000006182 00000 n 
+0000008386 00000 n 
+0000008494 00000 n 
+0000008607 00000 n 
+0000008889 00000 n 
+0000013954 00000 n 
+0000014062 00000 n 
+0000014175 00000 n 
+0000014457 00000 n 
+0000019074 00000 n 
+0000019182 00000 n 
+0000019295 00000 n 
+0000019577 00000 n 
+0000023440 00000 n 
+0000023548 00000 n 
+0000023661 00000 n 
+0000023943 00000 n 
+0000028967 00000 n 
+0000029075 00000 n 
+0000029188 00000 n 
+0000029470 00000 n 
+0000032906 00000 n 
+0000033014 00000 n 
+0000033127 00000 n 
+0000033409 00000 n 
+0000038031 00000 n 
+0000038139 00000 n 
+0000038252 00000 n 
+0000038534 00000 n 
+0000043610 00000 n 
+0000043718 00000 n 
+0000043831 00000 n 
+0000044113 00000 n 
+0000047943 00000 n 
+0000048051 00000 n 
+0000048164 00000 n 
+0000048446 00000 n 
+0000052288 00000 n 
+0000052396 00000 n 
+0000052509 00000 n 
+0000052791 00000 n 
+0000057939 00000 n 
+0000058047 00000 n 
+0000058160 00000 n 
+0000058442 00000 n 
+0000062558 00000 n 
+0000062666 00000 n 
+0000062779 00000 n 
+0000063061 00000 n 
+0000066991 00000 n 
+0000067099 00000 n 
+0000067212 00000 n 
+0000067494 00000 n 
+0000072622 00000 n 
+0000072730 00000 n 
+0000072843 00000 n 
+0000073125 00000 n 
+0000077086 00000 n 
+0000077194 00000 n 
+0000077307 00000 n 
+0000077589 00000 n 
+0000082184 00000 n 
+0000082292 00000 n 
+0000082405 00000 n 
+0000082687 00000 n 
+0000087897 00000 n 
+0000088005 00000 n 
+0000088118 00000 n 
+0000088400 00000 n 
+0000092754 00000 n 
+0000092862 00000 n 
+0000092975 00000 n 
+0000093257 00000 n 
+0000097794 00000 n 
+0000097902 00000 n 
+0000098015 00000 n 
+0000098297 00000 n 
+0000103458 00000 n 
+0000103566 00000 n 
+0000103679 00000 n 
+0000103962 00000 n 
+0000107447 00000 n 
+0000107555 00000 n 
+0000107669 00000 n 
+0000107955 00000 n 
+0000112515 00000 n 
+0000112624 00000 n 
+0000112738 00000 n 
+0000113024 00000 n 
+0000118442 00000 n 
+0000118551 00000 n 
+0000118665 00000 n 
+0000118951 00000 n 
+0000119814 00000 n 
+0000119923 00000 n 
+trailer
+<<
+/Size 113
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+120037
+%%EOF
